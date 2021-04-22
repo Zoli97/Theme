@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../media/zoli/e9f28e20-a90b-4c0e-a569-8a132d676d68/NodeJSCrasCourse"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "theme"
+	}
+}
